@@ -1,0 +1,9 @@
+The Nigerian Communications Commission’s Cyber Security Incident Response Team (NCC-CSIRT) has identified two cyber vulnerabilities and advised Nigerian telecom consumers on the measures to be taken to get protected from cyber-attacks.
+  
+The CSIRT, in its first-ever security advisory less than three months after its creation, has solely identified the two cyber-attacks targeting the consumers and proffer solutions that can help telecom consumers from falling victim to the two cyber vulnerabilities.
+   
+The first is described as Juice Jacking, which can gain access into consumers’ devices when charging mobile phones at public charging stations and it applies to all mobile phones. The other is a Facebook for Android Friend Acceptance Vulnerability, which targets only Android Operating System.  “When an attacker gains access to a user’s Mobile phone, he gets remote access to the User’s phone, which leads to breach in confidentiality, violation of data integrity and bypass of authentication mechanisms.
+   
+“Symptoms of attack may include sudden spike in battery consumption, device operating slower than usual, apps taking a long time to load, and when they load they crash frequently and cause abnormal data usage,” it stated.
+  
+The NCC-CSIRT, however, proffered solutions to this attack to include using ‘charging only USB cable’, to avoid Universal Serial Bus (USB) data connection; using one’s AC charging adaptor in public space; and not granting trust to portable devices prompt for USB data connection. 
